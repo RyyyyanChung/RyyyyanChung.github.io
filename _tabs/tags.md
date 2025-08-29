@@ -1,5 +1,5 @@
 ---
 layout: Publications
-icon: fas fa-tags
+icon: fas fa-newspaper
 order: 2
 ---
