@@ -18,8 +18,6 @@ details{margin-top:.4rem}
 {% assign me = page.me | default: site.author.name | default: 'Me' %}
 {% assign me_bold = '<strong>' | append: me | append: '</strong>' %}
 
-# Publications
-
 <div class="pub-list">
 {% assign pubs = site.data.Publications | sort: 'year' | reverse %}
 {% for p in pubs %}
