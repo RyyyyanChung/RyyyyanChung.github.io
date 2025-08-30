@@ -1,5 +1,5 @@
 - title: "Steady-State Phases and Interaction-Induced Depletion in a Driven-Dissipative Chirally-Coupled Dissimilar Atomic Array"
-  authors: "S.H. Chung, H. H. Jen"
+  authors: "S.H. Chung, I Gusti Ngurah Yudi Handayana, Yi-Lin Taso, Chun-Chi Wu, G.D. Lin, and H.H. Jen"
   venue: "Physical Review Research 6, 023232"
   year: 2024
   type: "journal"     # journal | conference | preprint | thesis | misc
@@ -7,13 +7,3 @@
   # arxiv: "https://arxiv.org/abs/xxxx.xxxxx"
   # pdf: "https://your-site-or-hosted-file.pdf"
   # abstract: "Brief 2–4 sentence abstract (optional)."
-  bibtex: |
-    @article{Chung2024SteadyStatePhases,
-      title={Steady-State Phases and Interaction-Induced Depletion in a Driven-Dissipative Chirally-Coupled Dissimilar Atomic Array},
-      author={S.H. Chung and H. H. Jen},
-      journal={Physical Review Research},
-      volume={6},
-      pages={023232},
-      year={2024},
-      doi={10.1103/PhysRevResearch.6.023232}
-    }
